@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pinterest.com/pin/8444318046096175/)]
+[![MasterHead](https://cdn.dribbble.com/users/207265/screenshots/1701341/media/c74dca1b169d160501cf3ffc3be4a930.png)]
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ4em1iajVranB0bXhudWp4N2I2MHR0ZWVwc2NmcjdkOW5pdGprZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif">
