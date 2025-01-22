@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
-<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXh2cGlnMWx0d3F2dDNiNnQ3cGU1amQxZnl4ODI2OHoxcW43eTBhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M0HygAIMofkvN1iuv1/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
 
 ---
 
