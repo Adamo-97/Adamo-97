@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ4em1iajVranB0bXhudWp4N2I2MHR0ZWVwc2NmcjdkOW5pdGprZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif">
@@ -82,9 +82,9 @@
 ---
 
 ### **📊 GitHub Stats**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=adamo-97&show_icons=true&locale=en" alt="adamo-97 stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo-97&show_icons=true&locale=en&layout=compact" alt="adamo-97 languages" width="50%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&locale=en" alt="adamo-97 stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&layout=compact" alt="adamo-97 languages" width="400" height="200" />
 </p>
 
 
