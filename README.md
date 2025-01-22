@@ -83,8 +83,6 @@
 
 ### **📊 GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&locale=en" alt="adamo-97 stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&layout=compact" alt="adamo-97 languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&locale=en" alt="adamo-97 stats" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adamo-97&show_icons=true&theme=black-ice&hide_border=true&layout=compact" alt="adamo-97 languages" width="400" height="200" />
 </p>
-
-
