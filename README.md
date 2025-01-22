@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adam Abdullah</h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
-
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBvc2lvdjZyN2dzOHRkbTl6bXZ3ZzdmZXpkNmZpY29waDA1czBucCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamo-97&label=Profile%20views&color=0e75b6&style=flat" alt="adamo-97" /> </p>
 
 - 📫 How to reach me **adam.97.abdullah@gmail.com**
@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamo-97&show_icons=true&locale=en" alt="adamo-97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamo-97&" alt="adamo-97" /></p>
