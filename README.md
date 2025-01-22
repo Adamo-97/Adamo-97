@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Adam Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Adam </h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ4em1iajVranB0bXhudWp4N2I2MHR0ZWVwc2NmcjdkOW5pdGprZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ4em1iajVranB0bXhudWp4N2I2MHR0ZWVwc2NmcjdkOW5pdGprZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif">
 
 
 
