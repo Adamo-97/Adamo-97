@@ -1,4 +1,4 @@
-[![MasterHead](https://s3-alpha.figma.com/hub/file/5678700701/91e47b29-8ba0-49cd-a943-01a910e8199d-cover.png)]
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">💻 Aspiring Software Engineer 🎓 Studying Software Engineering at Blekinge Institute of Technology (BTH), Sweden</h3>
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODZ4em1iajVranB0bXhudWp4N2I2MHR0ZWVwc2NmcjdkOW5pdGprZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GQty4dYXeVkOeMzqVx/giphy.gif">
